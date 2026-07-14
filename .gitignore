@@ -1,0 +1,17 @@
+# Private product photos — never commit (privacy rule in CLAUDE.md)
+raws/*
+!raws/.gitkeep
+
+# Generated catalogue images and delivery ZIPs
+outputs/*
+!outputs/.gitkeep
+
+# Working artifacts: inventory, manifest, QC sheets, summaries
+work/*
+!work/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
