@@ -1,0 +1,2 @@
+cdn.pixelbin.io
+delivery.pixelbin.io
