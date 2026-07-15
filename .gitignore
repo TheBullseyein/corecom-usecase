@@ -5,6 +5,7 @@ raws/*
 # Generated catalogue images and delivery ZIPs
 outputs/*
 !outputs/.gitkeep
+*.zip
 
 # Working artifacts: inventory, manifest, QC sheets, summaries
 work/*
